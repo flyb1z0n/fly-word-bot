@@ -1,0 +1,10 @@
+Todo:
+    ✔ Add license @done(22-06-04 22:22)
+    ✔ basic telegram handler on node js @done(22-06-04 22:50)
+    ☐ clean up commants of the test bot
+
+Stack:
+    ☐ Build a base web app
+    ☐ Deploy webapp to some hosting
+    ☐ Open webapp with telegram
+    ☐ Make CI for the bot
