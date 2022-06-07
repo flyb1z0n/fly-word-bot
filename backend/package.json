@@ -1,5 +1,5 @@
 {
-  "name": "backend",
+  "name": "fly-word-bot-server",
   "version": "1.0.0",
   "description": "Backend for FlyWordBot",
   "main": "server.js",
