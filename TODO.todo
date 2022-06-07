@@ -1,4 +1,5 @@
 Todo:
+    ☐ Build a base web app 
     ☐ Write a README.md for local environment
     
 Stack:
@@ -7,7 +8,6 @@ Stack:
     ☐ Make CI for the bot
 
 Archive:
-  ✔ Build a base web app @done(22-06-07 16:07) @project(Todo)
   ✘ clean up commants of the test bot @cancelled(22-06-05 15:19) @project(Todo)
   ✔ Add license @done(22-06-04 22:22) @project(Todo)
   ✔ basic telegram handler on node js @done(22-06-04 22:50) @project(Todo)
