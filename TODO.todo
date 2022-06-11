@@ -1,7 +1,29 @@
+Miro board: https://miro.com/app/board/uXjVOtobQaU=/?share_link_id=177676133652
+
+MVP:
+    Infrastructure:
+        ☐ setup DB - MySQL (at least locally)
+        ☐ Dockerize an application
+        ☐ host solution in DO
+        ☐ make a CI for deployment
+        ☐ add flyway migration to CI
+        ☐ test CI
+
+    Add words to vocabulary:
+        ☐ investigate and document limitations
+        ☐ make a schema
+        ☐ connect app with DB
+        ☐ find an translation API
+        ☐ implement Business logic for adding dialog
+        ☐ write tests for adding
+        ☐ design the flow for adding words @ui
+
 Todo:
+    ☐ record training exercises in other training platforms
     ☐ Build a base web app 
     ☐ Write a README.md for local environment
-    
+    ☐ remove integration with netify
+
 Stack:
     ☐ Deploy webapp to some hosting
     ☐ Open webapp with telegram
