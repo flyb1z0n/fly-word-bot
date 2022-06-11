@@ -21,7 +21,6 @@ MVP:
 Todo:
     ☐ record training exercises in other training platforms
     ☐ Build a base web app 
-    ☐ Write a README.md for local environment
     ☐ remove integration with netify
 
 Stack:
@@ -30,6 +29,7 @@ Stack:
     ☐ Make CI for the bot
 
 Archive:
+  ✔ Write a README.md for local environment @done(22-06-11 22:58) @project(Todo)
   ✘ clean up commants of the test bot @cancelled(22-06-05 15:19) @project(Todo)
   ✔ Add license @done(22-06-04 22:22) @project(Todo)
   ✔ basic telegram handler on node js @done(22-06-04 22:50) @project(Todo)
