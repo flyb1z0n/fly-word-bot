@@ -5,10 +5,10 @@ const bot = new Telegraf<Context>(process.env.BOT_TOKEN!)
 
 // Register middleware and launch your bot as usual
 bot.use(Telegraf.log())
-bot.start((ctx) => ctx.reply('Welcome!!!112'))
+bot.start((ctx) => ctx.reply('Welcome!!!12aaaa'))
 
 bot.launch()
 
 // Enable graceful stop
 process.once('SIGINT', () => bot.stop('SIGINT'))
-process.once('SIGTERM', () => bot.stop('SIGTERM'))
+process.once('SIGTERM',` () => bot.stop('SIGTERM'))`
