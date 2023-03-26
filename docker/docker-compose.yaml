@@ -1,0 +1,11 @@
+services:
+  db: 
+    image: mysql:8.0.29
+    restart: always
+    ports:
+      - '3311:3306'
+    environment:
+      MYSQL_ROOT_PASSWORD: "root"
+      MYSQL_DATABASE: "fly-word-bot-db"
+      MYSQL_USER: "fly-word-bot-user"
+      MYSQL_PASSWORD: "fly-word-bot-password"
